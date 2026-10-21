@@ -1,0 +1,47 @@
+{
+  "id": "bbe",
+  "nombre": "bbe",
+  "nombreLegal": "beauty by estefa",
+  "logo": "logo.png",
+  "email": "estephanicabral02@gmail.com",
+  "telefono": "7816920072",
+  "direccion": "100 CUMMINGS CENTER SUITE 227 G",
+  "instagram": "bbe",
+  "website": "",
+  "canopus": "",
+  "colorPrincipal": "#7A5AA6",
+  "colorDorado": "#C9A84C",
+  "colorSuave": "#F3EEFA",
+  "idioma": "en",
+  "idiomas": [
+    "es",
+    "en",
+    "pt"
+  ],
+  "bienvenidaES": "BIENVENIDA A BBE",
+  "bienvenidaEN": "BIENVENIDA A BBE",
+  "graciasES": "¡GRACIAS!",
+  "graciasEN": "GRACIAS!!!",
+  "pt": {
+    "BIENVENIDA A BBE": "BEM-VINDA AO BBE",
+    "¡GRACIAS!": "OBRIGADO!!!"
+  },
+  "secciones": {
+    "datos": true,
+    "piel": true,
+    "salud": true,
+    "rutina": true,
+    "estilo": true,
+    "fotos": true,
+    "consentimiento": true
+  },
+  "preguntasExtra": [],
+  "clausulasExtra": "",
+  "afirmaciones": true,
+  "frasesPropias": [],
+  "plan": "pro",
+  "envio": "script",
+  "mostrarCreditos": true,
+  "activa": true,
+  "motor": "v1"
+}
